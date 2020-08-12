@@ -1,0 +1,17 @@
+body {
+    background-color: azure;
+}
+
+h1 {
+    font-family: Montserrat;
+    font-size: 3rem;
+    
+}
+label {
+    font-family: Montserrat;
+    background:rgb(218, 216, 216);
+    position: relative;
+    border-radius: 9px;
+    margin: 10px;
+    display: inline-block;
+}
